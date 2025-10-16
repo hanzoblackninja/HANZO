@@ -3820,6 +3820,8 @@ https://main.24playerhd.com/m3u8/71c5e083a92466778e80314d/71c5e083a92466778e8031
 ########################################
 
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2023/05/Last-Sentinel-2023-300x450.jpg",Last Sentinel (2023)
+#EXTVLCOPT:http-referrer=https://www.123hdtv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://main.24playerhd.com/m3u8/c9cc7d16231fb7c36701fc13/c9cc7d16231fb7c36701fc13438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.123hdtv.com/wp-content/uploads/2025/10/Immortal-Species-2023-อมตะพันธุ์สยอง-300x450.png",Immortal Species (2023) อมตะพันธุ์สยอง

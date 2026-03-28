@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/BTS-the-Comeback-Live-Arirang-2026-ไลฟ์สด-การกลับมาของ-BTS-Arirang-300x450.png",BTS the Comeback Live Arirang (2026) ไลฟ์สด การกลับมาของ BTS Arirang
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/66728ddde7ce8a821d9d7b41/66728ddde7ce8a821d9d7b41438.m3u8
+
+#EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/BTS-The-Return-2026-BTS-กลับมาแล้ว-300x450.png",BTS The Return (2026) BTS กลับมาแล้ว
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/f81c06fc8ef141d7773e028e/f81c06fc8ef141d7773e028e438.m3u8
+
+#EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/Blades-of-The-Guardians-2026-ยอดยุทธ์ดาบพิทักษ์-300x450.png",Blades of The Guardians (2026) ยอดยุทธ์ดาบพิทักษ์
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/2647de4ec6eddb05334bc049/2647de4ec6eddb05334bc049438.m3u8
+
+#EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/Project-Hail-Mary-2026-ภารกิจกู้สุริยะ-300x450.png",Project Hail Mary (2026) ภารกิจกู้สุริยะ
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/6617aec72aa341a1768a278b/6617aec72aa341a1768a278b438.m3u8
+
+#EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/How-to-Make-a-Killing-2026-300x450.png",How to Make a Killing (2026)
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/0b097f31cd664be5df5f693a/0b097f31cd664be5df5f693a438.m3u8
+
+#EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/Protector-2026-300x450.png",Protector (2026)
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/d2628ffbd349cd60a5788ee2/d2628ffbd349cd60a5788ee2438.m3u8
+
 #EXTINF:-1 group-title="หนัง 2026" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/Ready-or-Not-2-Here-I-Come-2026-เกมพร้อมตาย-ภาค-2-300x450.png",Ready or Not 2 Here I Come (2026) เกมพร้อมตาย ภาค 2
 #EXTVLCOPT:http-referrer=https://main.24playerhd.com/
 https://main.24playerhd.com/m3u8/a33d8b092cd44a9c181e5fb5/a33d8b092cd44a9c181e5fb5438.m3u8
@@ -403,6 +427,10 @@ https://main.24playerhd.com/m3u8/1258eb119a05edacec0ed33f/1258eb119a05edacec0ed3
 ########################################
 หนัง 2025
 ########################################
+
+#EXTINF:-1 group-title="หนัง 2025" tvg-logo="https://www.123-hds.com/wp-content/uploads/2026/03/The-Mortuary-Assistant-2025-คืนสยองห้องดับจิต-300x450.png",The Mortuary Assistant (2025) คืนสยองห้องดับจิต
+#EXTVLCOPT:http-referrer=https://main.24playerhd.com/
+https://main.24playerhd.com/m3u8/ce25f9fc1bf68207c5d117df/ce25f9fc1bf68207c5d117df438.m3u8
 
 #EXTINF:-1 group-title="หนัง 2025" tvg-logo="https://www.123-hds.com/wp-content/uploads/2025/04/Warfare-2025-1-300x450.png",Warfare (2025)
 #EXTVLCOPT:http-referrer=https://main.24playerhd.com/

@@ -1,6 +1,18 @@
 #EXTM3U
 #PLAYLIST:หนังสั้น ออนไลน์
 
+#EXTINF:-1 tvg-logo="https://www.xn--72c9ab1ec1bc6q.online/uploads/posters/0f3355b23f4bc44827a349a80d806c1b.webp", สลัดร่างอ้วนทวงแชมป์
+#EXTVLCOPT:http-referrer=https://www.xn--72c9ab1ec1bc6q.online/
+https://vz-b105018e-32f.b-cdn.net/e3eef820-8874-4950-ad12-d3c8c45279e1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xn--72c9ab1ec1bc6q.online/uploads/posters/70a8dec3ff5f0811ce1c6bb93281597e.webp", เมียชื่อกุมใจมาเฟีย
+#EXTVLCOPT:http-referrer=https://www.xn--72c9ab1ec1bc6q.online/
+https://vz-b105018e-32f.b-cdn.net/bf607620-163e-44f9-a167-a8ea6f94a801/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.xn--72c9ab1ec1bc6q.online/uploads/posters/da1bcf3bbbc7c72432bc96256c1c6f5b.webp", ทวงแค้นในนามแฝด
+#EXTVLCOPT:http-referrer=https://www.xn--72c9ab1ec1bc6q.online/
+https://vz-b105018e-32f.b-cdn.net/a61620de-e162-4140-ab90-9d78fc9d31fc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.xn--72c9ab1ec1bc6q.online/uploads/posters/0f975e754294fcddb0326117c61fb96c.webp", คืนพลาดรักพ่อเพื่อน
 #EXTVLCOPT:http-referrer=https://www.xn--72c9ab1ec1bc6q.online/
 https://vz-b105018e-32f.b-cdn.net/7c2ec451-4564-4d34-82a8-5fbba21017d7/playlist.m3u8
